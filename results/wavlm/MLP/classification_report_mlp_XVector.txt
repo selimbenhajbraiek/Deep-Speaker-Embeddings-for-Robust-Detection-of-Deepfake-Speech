@@ -1,0 +1,14 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.7829    0.6196    0.6917      2153
+           1     0.6567    0.8090    0.7250      1937
+
+    accuracy                         0.7093      4090
+   macro avg     0.7198    0.7143    0.7083      4090
+weighted avg     0.7231    0.7093    0.7075      4090
+
+
+Per-Class Accuracy:
+Accuracy for class 0: Spoof: 0.6196
+Accuracy for class 1: Bona-fide: 0.8090
