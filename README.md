@@ -94,6 +94,3 @@ Built using **FastAPI**, **React**, **TailwindCSS**, and **Chart.js**. Features:
 8. Todisco et al. (2017). *Constant Q cepstral coefficients*. Computer Speech & Language.
 9. Cover & Hart (1967). *Nearest neighbor pattern classification*. IEEE Trans. on Info Theory.
 
----
-
-Let me know if you want to auto-generate the actual dashboard, host it, or package this as a PDF!
