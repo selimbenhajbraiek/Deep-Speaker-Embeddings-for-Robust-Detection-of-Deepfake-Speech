@@ -66,7 +66,7 @@ These helped us compare models' ability to distinguish between spoofed and genui
 * **X-vector**: Best separation between spoof and bona fide classes
 * **ECAPA-TDNN**: Moderate clustering with minor overlaps
 * **WavLM**: High overlap, less effective in distinguishing classes
-![ECAPA-TDNNt-SNE](./images/ECAPA-TDNN_pretrained_t-SNE_2class.ong)
+![ECAPA-TDNNt-SNE](./images/ECAPA-TDNN_pretrained_t-SNE_2class.png)
 
 ## 🌐 Dashboard
 
