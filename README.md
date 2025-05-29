@@ -1,5 +1,4 @@
-# Deep-Speaker-Embeddings-for-Robust-Detection-of-Deepfake-Speech
-# DeepfakeShield: Detection of AI-Generated Speech Using Speaker Embeddings
+# Deep Speaker Embeddings for Robust Detection of Deepfake Speech
 
 ## 🌐 Overview
 
@@ -40,7 +39,7 @@ These helped us compare models' ability to distinguish between spoofed and genui
 
 ### 1. Bar Plot: Classifier Accuracy by Model
 
-![Classifier Accuracy](./images/classifier_accuracy_chart.png)
+![Classifier Accuracy](./images/results_table.png)
 
 * Shows that **X-vector + SVM** achieved highest accuracy (89.73%)
 
