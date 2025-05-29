@@ -37,7 +37,7 @@ These helped us compare models' ability to distinguish between spoofed and genui
 
 ## 📊 Visualizations
 
-### 1. Bar Plot: Classifier Accuracy by Model
+### 1. Result Table: Classifier Accuracy by Model
 
 ![Classifier Accuracy](./images/results_table.png)
 
