@@ -45,13 +45,13 @@ These helped us compare models' ability to distinguish between spoofed and genui
 
 ### 2. ROC Curve
 
-![ROC Curve](./images/roc_curve.png)
+![ROC Curve](./images/roc_curve_pretrained_all)
 
 * X-vector and ECAPA models show strong AUC scores for binary classification.
 
 ### 3. Precision-Recall Curve
 
-![Precision Recall](./images/pr_curve.png)
+![Precision Recall](./images/pr_curve_pretrained_all)
 
 * Demonstrates class imbalance handling and classifier sensitivity.
 
@@ -59,12 +59,14 @@ These helped us compare models' ability to distinguish between spoofed and genui
 
 * For each model + classifier combination (X-vector, WavLM, ECAPA-TDNN)
 * Highlights false positives/negatives and best performing combinations
+![X-Vector + SVM](./images/pr_curve_pretrained_all)
 
 ### 5. t-SNE Embedding Visualizations
 
 * **X-vector**: Best separation between spoof and bona fide classes
 * **ECAPA-TDNN**: Moderate clustering with minor overlaps
 * **WavLM**: High overlap, less effective in distinguishing classes
+![ECAPA-TDNNt-SNE](./images/ECAPA-TDNN_pretrained_t-SNE_2class)
 
 ## 🌐 Dashboard
 
